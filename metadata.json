@@ -1,0 +1,8 @@
+{
+  "name": "Remix Kinetic Orange Studio",
+  "description": "High-impact digital brutalist design studio powered by Archivo Black typography, electric orange aesthetics, and motion architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
